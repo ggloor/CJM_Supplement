@@ -35,7 +35,7 @@
 %\listoffigures
 %\listoftables
 \section{What is this?} 
-This document it the output from one that contains intermingled \LaTeX and \emph{R} information. The original is saved with the extension .Rnw, and if you have these two programs loaded on your machine you can regenerate this document on most platforms by running the {\tt build\_workshop.sh} bash script after you load in the {\tt bbv\_probiotic\_samples.txt} file. If this is gibberish to you, don't worry, all the code and data to generate the outputs are in this pdf document or in the directory {\tt chunk}. You can copy and paste the code into an RStudio window, or equivalent, to make the figures.
+This document it the output from one that contains intermingled \LaTeX and \emph{R} information. The original and all associated files can be accessed at: http://github.com/ggloor/CJM\_Supplement. There you will find a document saved with the extension .Rnw, and if you have these R and \LaTeX programs loaded on your machine you can regenerate this document on most platforms by running the {\tt build\_workshop.sh} bash script after you load in the {\tt bbv\_probiotic\_samples.txt} file. If this is gibberish to you, don't worry, all the code and data to generate the outputs are in this pdf document or in the directory {\tt chunk}. You can copy and paste the code into an RStudio window, or equivalent, to make the figures.
   
 \section{Counts vs proportions}
 First, load in required libraries and functions. 
